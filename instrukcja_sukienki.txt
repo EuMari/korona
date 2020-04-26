@@ -1,0 +1,18 @@
+I. Przypadek testowy ID: 001
+Tytuł: Rejestracja nowego użytkownika używając niepoprawnego hasła do weryfikacji
+Środowisko: Firefox 75.0 (64-bit)
+Warunek wstępny: Uruchomiona przeglądarka. Użytkownik nie jest zalogowany
+Kroki: 1. Wejdź na stronę http://www.sukienkimm.pl/
+2. Kliknij "Twoje konto".
+3. Kliknij "Załóż konto".
+4. Wpisz imię. 5. Wpisz nazwisko.
+6. Wpisz w adresie do wysyłki ulicę.
+7. Wpisz w adresie do wysyłki numer domu.
+8. Wpisz w adresie do wysyłki kod pocztowy.
+9. Wpisz w adresie do wysyłki miasto.
+10.Wprowadź adres email.
+11. Wprowadź hasło.
+12. Wprowadź niepoprawne hasło w pole "Powtórz hasło".
+13. Zaakceptuj Regulamin.
+14. Zaakceptuj Zgodę na przetwarzanie danych osobowych.
+15. Kliknij "Rejestruj"
